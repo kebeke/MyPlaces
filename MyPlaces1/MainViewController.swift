@@ -13,7 +13,7 @@ class MainViewController: UITableViewController {
         "Burger Heroes", "Kitchen", "Bonsai", "Дастархан",
         "Индокитай", "X.O", "Балкан Гриль", "Sherlock Holmes",
         "Speak Easy", "Morris Pub", "Вкусные истории",
-        "Класик", "Love&Life", "Шок", "Бочка"
+        "Клаcсик", "Love&Life", "Шок", "Бочка"
     ]
 
     override func viewDidLoad() {
